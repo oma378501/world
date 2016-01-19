@@ -1,0 +1,13 @@
+## oma378501
+
+/nbproject
+/build/
+dist/
+build.xml
+manifest.mf
+*.log
+*.err
+*.swp
+*~
+*.class
+
